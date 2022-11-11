@@ -1,0 +1,6 @@
+node_modules
+/dist
+stelo-db.md
+
+# env files
+.env
